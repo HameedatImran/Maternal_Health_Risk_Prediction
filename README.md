@@ -18,8 +18,8 @@ Source: https://archive.ics.uci.edu/dataset/863/maternal+health+risk
 | Metric | Value |
 |---|---|
 | Model | Random Forest (tuned) |
-| Test Accuracy | 83% |
-| Macro F1 | 0.83 |
+| Test Accuracy | 84% |
+| Macro F1 | 0.84 |
 | High-Risk Recall | 0.96 |
 
 ## Project Structure
