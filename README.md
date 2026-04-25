@@ -1,5 +1,3 @@
-# Maternal_Health_Risk_Prediction
-Models predicting maternal mortality
 # Maternal Health Risk Prediction
 
 A machine learning project predicting maternal health risk levels (low, mid, high) 
